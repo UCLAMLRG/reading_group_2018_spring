@@ -16,6 +16,7 @@ We will based our projects on the following papers:
 - Generative adversarial networks recover features in astrophysical images of galaxies beyond the deconvolution limit, Schawinski et al. (2017)
   - http://adsabs.harvard.edu/abs/2017MNRAS.467L.110S
   - arxiv link: https://arxiv.org/abs/1702.00403
+  - [Discussion in Winter 2018](https://github.com/UCLAMLRG/reading_group_2018_winter/tree/master/week2)
   - Code from paper: https://github.com/SpaceML/GalaxyGAN_python/
 
 ## Projects Repositories
