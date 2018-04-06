@@ -8,15 +8,15 @@
 
 We will based our projects on the following papers:
 
-Identifying Exoplanets with Deep Learning: A Five-planet Resonant Chain around Kepler-80 and an Eighth Planet around Kepler-90, Shallue et al. 2017
-- [Paper Link](http://adsabs.harvard.edu/abs/2018AJ....155...94S)
-- [J. Zink's discussion of this paper in Winter 2018](https://github.com/UCLAMLRG/reading_group_2018_winter/blob/master/week6/mlKepler.pdf)
-- Code from paper: https://github.com/tensorflow/models/tree/master/research/astronet
+- Identifying Exoplanets with Deep Learning: A Five-planet Resonant Chain around Kepler-80 and an Eighth Planet around Kepler-90, Shallue et al. (2018)
+  - [Paper Link](http://adsabs.harvard.edu/abs/2018AJ....155...94S)
+  - [J. Zink's discussion of this paper in Winter 2018](https://github.com/UCLAMLRG/reading_group_2018_winter/blob/master/week6/mlKepler.pdf)
+  - Code from paper: https://github.com/tensorflow/models/tree/master/research/astronet
 
-Generative adversarial networks recover features in astrophysical images of galaxies beyond the deconvolution limit, Schawinski et al. (2017)
-- http://adsabs.harvard.edu/abs/2017MNRAS.467L.110S
-- arxiv link: https://arxiv.org/abs/1702.00403
-- Code from paper: https://github.com/SpaceML/GalaxyGAN_python/
+- Generative adversarial networks recover features in astrophysical images of galaxies beyond the deconvolution limit, Schawinski et al. (2017)
+  - http://adsabs.harvard.edu/abs/2017MNRAS.467L.110S
+  - arxiv link: https://arxiv.org/abs/1702.00403
+  - Code from paper: https://github.com/SpaceML/GalaxyGAN_python/
 
 ## Projects Repositories
 
