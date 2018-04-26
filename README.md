@@ -2,7 +2,7 @@
 
 **Goals**: This quarter, we will emphasize hands-on applications of machine learning. To do this, we will be working on some short projects together with the goal of studying a science case in detail and hopefully to extend the analyses in scientifically interesting ways and potentially work on a paper.
 
-**Organizers**: Tuan Do ([@followthesheep](https://github.com/followthesheep)), Bernie Boscoe ([@brandles](https://github.com/brandles))
+**Organizers**: Tuan Do ([@followthesheep](https://github.com/followthesheep)), Bernie Boscoe ([@bboscoe](https://github.com/bboscoe))
 
 ## Papers
 
