@@ -34,7 +34,7 @@ We will based our projects on the following papers:
   - https://github.com/HFTrader/DeepLearningBook
 - Python Data Science Handbook by VanderPlas, J.
   - website: https://github.com/jakevdp/PythonDataScienceHandbook  
-  
+
 ## Schedule
 Meetings will take place on **Fridays at 1 to 2 PM** in **PAB-3-703**. Room changes will be sent via email.
 
@@ -43,3 +43,6 @@ Meetings will take place on **Fridays at 1 to 2 PM** in **PAB-3-703**. Room chan
 |2018-04-06| Introductions and Basics |[Getting Started](week1/README.md) | T. Do|
 |2018-04-13| Intro to SciServer | | B. Boscoe|
 |2018-04-20| Intro to SciServer & TensorFlow | | T. Do|
+|2018-04-27| SciServer | | |
+|2018-05-04| TensorFlow| | |
+|2018-05-11| Intro to Planets ML ([repo](https://github.com/UCLAMLRG/planets_ml)) ||
